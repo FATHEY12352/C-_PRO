@@ -39,9 +39,11 @@ Space to shoot.
 ```
 # Languages used in the game industry and framework :
 ```
-c#.
+c#
 
-.NET CORE.
+.NET CORE
 
-My user interface C#.
+My user interface C#
+
+net framework V4.8:6.0
 ```
