@@ -47,3 +47,4 @@ My user interface C#
 
 net framework V4.8:6.0
 ```
+### Classes and code for Game in file Form1.cs and i explan with comment 
