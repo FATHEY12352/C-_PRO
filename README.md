@@ -41,8 +41,11 @@ Space to shoot.
 
 Open Form1.cs
 
+#View 
+in Form1.Designer.cs
 
-
+#Control
+in Control.cs
 
 # Video Gameplay from a game 
    [Video](https://www.youtube.com/watch?v=oUnSVJGoxtk&t=4s)
