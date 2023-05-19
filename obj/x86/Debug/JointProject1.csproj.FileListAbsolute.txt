@@ -1,0 +1,136 @@
+H:\JointProject1\JointProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+H:\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+H:\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\JointProject1\JointProject1\bin\Debug\JointProject1.exe
+H:\JointProject1\JointProject1\bin\Debug\JointProject1.pdb
+H:\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+H:\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.exe
+G:\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.pdb
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+F:\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.exe
+F:\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.pdb
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.csproj.GenerateResource.Cache
+F:\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.csprojResolveAssemblyReference.cache
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.exe
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.pdb
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.csprojResolveAssemblyReference.cache
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+F:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.csproj.GenerateResource.Cache
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.exe
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\JointProject1.pdb
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+H:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+C:\Users\John\Desktop\JointProject1\JointProject1\obj\x86\Debug\JointProject1.exe
+C:\Users\John\Desktop\JointProject1\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\Interop.WMPLib.dll
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\bin\Debug\AxInterop.WMPLib.dll
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\To Do\JointProject1 All files\JointProject1\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+I:\Complete\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+I:\Complete\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+I:\Complete\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+I:\Complete\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+I:\Complete\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.exe
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.pdb
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\Interop.WMPLib.dll
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\AxInterop.WMPLib.dll
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Complete\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+M:\Programming\Projects\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.exe
+M:\Programming\Projects\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.pdb
+M:\Programming\Projects\JointProject1C00181305\JointProject1\bin\Debug\Interop.WMPLib.dll
+M:\Programming\Projects\JointProject1C00181305\JointProject1\bin\Debug\AxInterop.WMPLib.dll
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csprojResolveAssemblyReference.cache
+M:\Programming\Projects\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.GenerateResource.Cache
+F:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+F:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+F:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+F:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.exe
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.pdb
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\Interop.WMPLib.dll
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\AxInterop.WMPLib.dll
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+G:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+G:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+G:\Complete ( copy off here)\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.exe
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\JointProject1.pdb
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Form1.resources
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Labs\JointProject1 All files\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\1st year\JointProject1C00181305\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\1st year\JointProject1C00181305\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\1st year\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+C:\Users\Stephen\Desktop\1st year\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.exe
+C:\Users\Stephen\Desktop\1st year\JointProject1C00181305\JointProject1\obj\x86\Debug\JointProject1.pdb
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\JointProject1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\JointProject1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\JointProject1\obj\x86\Debug\JointProject1.csproj.ResolveComReference.cache
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\JointProject1\obj\x86\Debug\JointProject1.exe
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\JointProject1\obj\x86\Debug\JointProject1.pdb
