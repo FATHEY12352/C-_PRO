@@ -37,16 +37,12 @@ w,a,s,d to move.
 
 Space to shoot.
 ```
-# Languages used in the game industry and framework :
-```
-c#
-
-.NET CORE
-
-My user interface C#
-
-net framework V4.8:6.0
-```
 # Classes and code for Game in file Form1.cs and we explan with comment
 
 Open Form1.cs
+
+
+
+
+# Video Gameplay from a game 
+      https://www.youtube.com/watch?v=oUnSVJGoxtk&t=4s
