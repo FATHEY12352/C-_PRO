@@ -1,0 +1,12 @@
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\Zombie Shooter.csproj.ResolveComReference.cache
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\bin\Release\JointProject1.exe
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\bin\Release\JointProject1.pdb
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\bin\Release\Interop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\JointProject1.Form1.resources
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\JointProject1.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\Zombie Shooter.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\JointProject1.exe
+C:\Users\Stephen\Desktop\Zombie Shooter - Forms\Source\Zombie Shooter\obj\x86\Release\JointProject1.pdb
