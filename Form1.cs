@@ -1,8 +1,4 @@
 ﻿//-----------------------------------------------------------------------------------------------------------------
-//Author:
-////Name: Stephen Ennis
-//Login ID = C00181305
-//Date Created: 20/11/2013
 //-----------------------------------------------------------------------------------------------------------------
 //Description:
 //A game where you control a character who is trying to defend his hometown from the oncoming 
