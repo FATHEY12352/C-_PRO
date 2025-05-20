@@ -1,18 +1,3 @@
-﻿//-----------------------------------------------------------------------------------------------------------------
-//-----------------------------------------------------------------------------------------------------------------
-//Description:
-//A game where you control a character who is trying to defend his hometown from the oncoming 
-//horde of zombies. The town is to the left of the screen. They player has gone out to hold them back.
-//if the player is hit by the zombies or they get past you to the left of the screen then you will lose health.
-//Survivors will appear and run around randomly. You must move over them to rescure them and get more
-//points. Killing zombies will get you points for a higher score. When the boss zombie spawns the other zombies
-//speed up.Killing the boss will yield more points.
-//------------------------------------------------------------------------------------------------------------------
-//Know bugs/issues
-//Sometimes at the start of a new game one of the zombies will spawn below the screen 
-//Possible that zombies may sometimes appear on top of one another
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
